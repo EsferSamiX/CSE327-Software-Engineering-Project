@@ -1,1 +1,1 @@
-Flutter app code goes here 
+This is the RelaxRide flutter app
